@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Landing Page](https://github.com/kranor2/landing-page)
 
-- 🌱 I’m currently learning **HTML/CSS - The Odin Project**
+- 🌱 I’m currently learning **JavaScript - The Odin Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kranor2?tab=repositories](https://github.com/kranor2?tab=repositories)
 
