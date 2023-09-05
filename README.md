@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhett North (kranor2)</h1>
-<h3 align="center">a student web developer from Colorado</h3>
+<h3 align="center">an intermediate web developer from Colorado</h3>
 
 - 🔭 I’m currently working on [Landing Page](https://github.com/kranor2/landing-page)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **retsrawk@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/rdcnorth](www.linkedin.com/in/rdcnorth)
+- 📄 Know about my experiences [LinkedIn Profile](www.linkedin.com/in/rdcnorth)
 
 - ⚡ Fun fact **In my spare time, I enjoy building Lego sets, reading, and playing video games.**
 
