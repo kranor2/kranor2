@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhett North (kranor2)</h1>
 <h3 align="center">an intermediate web developer from Colorado</h3>
 
-- 🔭 I’m currently working on [Rock Paper Scissors](https://github.com/kranor2/rock-paper-scissors)
+- 🔭 I’m currently working on [JavaScript Exercises - The Odin Project]([https://github.com/kranor2/javascript-exercises])
 
 - 🌱 I’m currently learning **JavaScript - The Odin Project**
 
