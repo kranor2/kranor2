@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhett North (kranor2)</h1>
 <h3 align="center">an intermediate web developer from Colorado</h3>
 
-- 🔭 I’m currently working on [Etch A Sketch](https://github.com/kranor2/etchasketch)
+- 🔭 I’m currently working on [Calculator](https://github.com/kranor2/calculator)
 
 - 🌱 I’m currently learning **JavaScript - The Odin Project**
 
