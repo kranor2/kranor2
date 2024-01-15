@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Basic Sign-Up Form](https://github.com/kranor2/sign-up-form)
 
-- 🌱 I’m currently learning **JavaScript - The Odin Project**
+- 🌱 I’m currently learning **Full Stack JavaScript - The Odin Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kranor2?tab=repositories](https://github.com/kranor2?tab=repositories)
 
