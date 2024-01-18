@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhett North (kranor2)</h1>
 <h3 align="center">an intermediate web developer from Colorado</h3>
 
-- 🔭 I’m currently working on [Basic Sign-Up Form](https://github.com/kranor2/sign-up-form)
+- 🔭 I’m currently working on [Admin Dashboard](https://github.com/kranor2/admin-dash)
 
 - 🌱 I’m currently learning **Full Stack JavaScript - The Odin Project**
 
