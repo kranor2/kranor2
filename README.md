@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhett North (kranor2)</h1>
 <h3 align="center">an intermediate web developer from Colorado</h3>
 
-- 🔭 I’m currently working on [Tic Tac Toe](https://github.com/kranor2/tictactoe)
+- 🔭 I’m currently working on [Restaurant Page](https://github.com/kranor2/restaurant-page)
 
 - 🌱 I’m currently learning **Full Stack JavaScript - The Odin Project**
 
