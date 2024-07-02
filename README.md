@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhett North (kranor2)</h1>
 <h3 align="center">an intermediate web developer from Colorado</h3>
 
-- 🔭 I’m currently working on [Weather App](https://github.com/kranor2/weather)
+- 🔭 I’m currently working on [Odin Project - Hashmap Prompt](https://github.com/kranor2/hashmap)
 
 - 🌱 I’m currently learning **Full Stack JavaScript - The Odin Project**
 
