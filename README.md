@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/rdcnorth](www.linkedin.com/in/rdcnorth)
 
-- ⚡ Fun fact **I currently teach high school Computer Science and Media Arts.In my spare time, I enjoy building Lego sets, reading, and playing video games.**
+- ⚡ Fun fact: **I currently teach high school Computer Science and Media Arts. In my spare time, I enjoy building Lego sets, reading, and playing video games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
