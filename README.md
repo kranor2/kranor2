@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TBD**
 
-- 🌱 I’m currently learning **Full Stack JavaScript - The Odin Project**
+- 🌱 I’m currently learning **Full Stack JavaScript - The Odin Project**, **CompTIA - Network+**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kranor2?tab=repositories](https://github.com/kranor2?tab=repositories)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/rdcnorth](www.linkedin.com/in/rdcnorth)
 
-- ⚡ Fun fact: **I currently teach high school Computer Science and Media Arts. In my spare time, I enjoy building Lego sets, reading, and playing video games.**
+- ⚡ Fun fact: **I currently work as Technical Sales Support for Pharos Architectural Controls. In my spare time, I enjoy building Lego sets, reading, and playing video games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
