@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kranor2?tab=repositories](https://github.com/kranor2?tab=repositories)
 
-- 📫 How to reach me **retsrawk@gmail.com**
-
 - 📄 Know about my experiences [www.linkedin.com/in/rdcnorth](www.linkedin.com/in/rdcnorth)
 
 - ⚡ Fun fact: **I currently work as Technical Sales Support for Pharos Architectural Controls. In my spare time, I enjoy building Lego sets, reading, and playing video games.**
@@ -33,6 +31,14 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Certifications:</h3>
+<p align="left">
+  <a href="https://www.axelos.com/certifications/itil-service-management" target="_blank" rel="noreferrer">ITIL 4</a>
+</p>
+<p align="left">
+  <a href="https://www.comptia.org/en-us/certifications/network/" target="_blank" rel="noreferrer">CompTIA Network+</a>
 </p>
 
 
